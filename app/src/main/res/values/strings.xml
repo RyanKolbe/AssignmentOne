@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AssignmentOne</string>
+    <string name="buttonPgOne">Submit</string>
+    <string name="editTextPgOne">This is the message to read.</string>
+    <string name="buttonPgTwo">Submit</string>
+    <string name="buttonPgThree">Submit</string>
+    <string name="buttonPgFour">Submit</string>
+</resources>
